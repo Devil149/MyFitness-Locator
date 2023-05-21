@@ -1,1 +1,1 @@
-# MyFitness Locator
+# MyFitness-Locator
